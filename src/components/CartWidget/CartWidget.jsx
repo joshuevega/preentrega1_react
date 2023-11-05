@@ -1,7 +1,7 @@
 import React from 'react'
 import { Badge } from '@chakra-ui/react'
 
-const cartwidget = () => {
+const CartWidget = () => {
     return (
         <div>
             <h5>Carrito</h5>
@@ -10,4 +10,4 @@ const cartwidget = () => {
     )
 }
 
-export default cartwidget
+export default CartWidget   
